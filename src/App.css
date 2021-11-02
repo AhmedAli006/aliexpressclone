@@ -1,0 +1,20 @@
+/* .App {
+  text-align: center;
+} */
+
+.nav{
+  background-color: rgb(243, 243, 243);
+  display: flex;
+  justify-content: right;
+}
+
+.serbar{
+  border-color: #ff4747;
+ width: 300px;
+}
+.blkfoot{
+  text-align: center;
+  background-color: rgb(53, 53, 53);
+  color: rgb(233, 233, 233);
+}
+
